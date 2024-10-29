@@ -1,4 +1,4 @@
-public class Sample
+public class sample
 {
 public static void main(string args[])
 {
